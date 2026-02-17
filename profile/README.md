@@ -1,6 +1,6 @@
 # trilliumOS
 
-trilliumOS is a personal, educational project focused on designing a simple, stable, and atomic desktop operating system. Inspired by the trillium — a three-petaled flower symbolizing balance and resilience — the project aims to reflect clarity in design, strength in foundation, and cohesion in experience.
+trilliumOS is a personal, educational project focused on designing a simple, stable, atomic desktop operating system. Inspired by the trillium — a three-petaled flower symbolizing balance and resilience — the project aims to reflect clarity in design, strength in foundation, and cohesion in experience.
 
 Built upon enterprise-grade Linux principles and an immutable architecture, trilliumOS explores how a modern desktop can remain approachable for everyday users while maintaining reliability under the hood.
 
